@@ -4,7 +4,7 @@ import { FaLinkedinIn, FaTelegram } from "react-icons/fa6";
 import { IoSend } from "react-icons/io5";
 function Footer() {
   return (
-    <section className=" mt-4 border-t-2 border-purple-700  bg-[#171c22]  pb-2  " id="contact">
+    <section className=" mt-4 border-t-2 border-[#045ef0]  bg-[#171c22b2]  pb-2  " id="contact">
       <div className=" container-wrapper relative  ">
       
 
@@ -31,7 +31,7 @@ function Footer() {
                 </a>
               </div>
 
-            <p className=" text-white">Copyright 2024 PurplePepe  All Rights Reserved.</p>
+            <p className=" text-white">Copyright 2024 BluePepe  All Rights Reserved.</p>
             </div>
 
             <div className=" mt-[5%]">

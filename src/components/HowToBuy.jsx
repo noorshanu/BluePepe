@@ -42,7 +42,7 @@ function HowToBuy() {
             />
             <a
               href="/"
-              className=" bg-black border-2  border-purple-700 px-4 py-1 text-white  rounded-full text-2xl font-bold font-dream"
+              className=" bg-black border-2  border-[#045ef0] px-4 py-1 text-white  rounded-full text-2xl font-bold font-dream txts" id="logo"
             >
               Buy $PUPE
             </a>
