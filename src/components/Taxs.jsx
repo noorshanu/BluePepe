@@ -65,7 +65,7 @@ function Taxs() {
               alt=""
               data-aos="fade-up"
               data-aos-duration="1500"
-              className=" h-[450px]"
+              className=" h-[450px] zoom-in-out-box"
             />
           </div>
         </div>
