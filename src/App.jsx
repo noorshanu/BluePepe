@@ -41,7 +41,7 @@ function App() {
         {/* <ChooseHero /> */}
         <HowToBuy />
         <div className="main-bg2 pt-4">
-          <Faq />
+          {/* <Faq /> */}
 
           <Footer />
         </div>
