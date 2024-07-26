@@ -12,7 +12,7 @@ function Navbar() {
         {/* Logo */}
         <div className="flex items-center flex-shrink-0 mr-6">
         <a href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
-          <img src="images/logo.png" className="h-[70px]" alt=" Logo" />
+          <img src="images/lambo.png" className="h-[70px]" alt=" Logo" />
 
           <h1 className=" font-dream text-xl sm:text-4xl font-bold  " id="logo">$BLPE</h1>
         </a>
