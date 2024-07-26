@@ -4,7 +4,9 @@ import { FaLinkedinIn, FaTelegram } from "react-icons/fa6";
 import { IoSend } from "react-icons/io5";
 function Footer() {
   return (
-    <section className=" mt-4 border-t-2 border-[#045ef0]  bg-[#171c22b2]  pb-2  " id="contact">
+   <div className=" relative ">
+    <img src="images/more.png" alt="" className="mx-auto absolute top-[-70%] sm:-top-[119%] left-0 right-0 " />
+     <section className="mt-[45%]  sm:mt-[19%] border-t-2 border-[#045ef0]  bg-[#171c22b2]  pb-2  " id="contact">
       <div className=" container-wrapper relative  ">
       
 
@@ -71,6 +73,7 @@ function Footer() {
         </div>
       </div>
     </section>
+   </div>
   );
 }
 
