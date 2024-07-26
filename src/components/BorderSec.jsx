@@ -9,28 +9,28 @@ function BorderSec() {
 <div className=' '>
 <Marquee  className=' '>
     <h1 className='font-dream text-4xl font-bold text-white mx-2'>Rayduim</h1>
-    <h1 className='font-dream text-4xl font-bold text-[#8d4df9] mx-2'>!!!</h1>
+    <h1 className='font-dream text-4xl font-bold text-[#045ef0] mx-2'>!!!</h1>
     <h1 className='font-dream text-4xl font-bold text-white mx-2'>Jupiter</h1>
-    <h1 className='font-dream text-4xl font-bold text-[#8d4df9] mx-2'>!!!</h1>
+    <h1 className='font-dream text-4xl font-bold text-[#045ef0] mx-2'>!!!</h1>
     <h1 className='font-dream text-4xl font-bold text-white mx-2'>Rayduim</h1>
-    <h1 className='font-dream text-4xl font-bold text-[#8d4df9] mx-2'>!!!</h1>
+    <h1 className='font-dream text-4xl font-bold text-[#045ef0] mx-2'>!!!</h1>
     <h1 className='font-dream text-4xl font-bold text-white mx-2'>Jupiter</h1>
-    <h1 className='font-dream text-4xl font-bold text-[#8d4df9] mx-2'>!!!</h1>
+    <h1 className='font-dream text-4xl font-bold text-[#045ef0] mx-2'>!!!</h1>
     <h1 className='font-dream text-4xl font-bold text-white mx-2'>Rayduim</h1>
-    <h1 className='font-dream text-4xl font-bold text-[#8d4df9] mx-2'>!!!</h1>
+    <h1 className='font-dream text-4xl font-bold text-[#045ef0] mx-2'>!!!</h1>
     <h1 className='font-dream text-4xl font-bold text-white mx-2'>Jupiter</h1>
-    <h1 className='font-dream text-4xl font-bold text-[#8d4df9] mx-2'>!!!</h1>
+    <h1 className='font-dream text-4xl font-bold text-[#045ef0] mx-2'>!!!</h1>
     <h1 className='font-dream text-4xl font-bold text-white mx-2'>Rayduim</h1>
-    <h1 className='font-dream text-4xl font-bold text-[#8d4df9] mx-2'>!!!</h1>
+    <h1 className='font-dream text-4xl font-bold text-[#045ef0] mx-2'>!!!</h1>
     <h1 className='font-dream text-4xl font-bold text-white mx-2'>Jupiter</h1>
     
-    <h1 className='font-dream text-4xl font-bold text-[#8d4df9] mx-2'>!!!</h1>
+    <h1 className='font-dream text-4xl font-bold text-[#045ef0] mx-2'>!!!</h1>
     <h1 className='font-dream text-4xl font-bold text-white mx-2'>Rayduim</h1>
-    <h1 className='font-dream text-4xl font-bold text-[#8d4df9] mx-2'>!!!</h1>
+    <h1 className='font-dream text-4xl font-bold text-[#045ef0] mx-2'>!!!</h1>
     <h1 className='font-dream text-4xl font-bold text-white mx-2'>Jupiter</h1>
-    <h1 className='font-dream text-4xl font-bold text-[#8d4df9] mx-2'>!!!</h1>
+    <h1 className='font-dream text-4xl font-bold text-[#045ef0] mx-2'>!!!</h1>
     <h1 className='font-dream text-4xl font-bold text-white mx-2'>Rayduim</h1>
-    <h1 className='font-dream text-4xl font-bold text-[#8d4df9] mx-2'>!!!</h1>
+    <h1 className='font-dream text-4xl font-bold text-[#045ef0] mx-2'>!!!</h1>
     <h1 className='font-dream text-4xl font-bold text-white mx-2'>Jupiter</h1>
 
     </Marquee>
