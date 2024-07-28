@@ -25,7 +25,7 @@ function HowToBuy() {
             data-aos="fade-left"
             data-aos-duration="1500"
           >
-            <img src="images/lambo2.png" alt="" className=" h-[180px] sm:h-[220px]" />
+            <img src="images/forb.jpeg" alt="" className=" h-[180px] sm:h-[220px] rounded-3xl" />
           </div>
         </div>
 
@@ -36,9 +36,9 @@ function HowToBuy() {
             data-aos-duration="1500"
           >
             <img
-              src="images/logo.png"
+              src="images/sst.jpeg"
               alt=""
-              className="h-[220px] img-hov cursor-pointer"
+              className="h-[220px] img-hov cursor-pointer rounded-3xl"
             />
             <a
               href="/"
