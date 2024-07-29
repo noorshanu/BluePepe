@@ -21,14 +21,14 @@ function AboutUs() {
             </p>
 
             <p className=" text-lg text-white">
-              Driven by unity and strength, the Purple Pepe community aims for
-              financial freedom. With $PUPE leading the way, join the movement
+              Driven by unity and strength, the Blue Pepe community aims for
+              financial freedom. With  $BPEPE leading the way, join the movement
               where memes meet millionaires and wealth is within reach for all.
             </p>
 
 
             <div className=" m-4 mx-auto flex justify-center">
-              <a href="https://www.dextools.io/app/en/solana/pair-explorer/BmJzRiQyEwXB6kPADAc3xUGn68Yu5wkNSmZbjspjAvnS?t=1721393113503" className=" mx-auto font-dream  text-base text-white bg-[#000000] hover:bg-[#1a4093]
+              <a href="t=1721393113503" className=" mx-auto font-dream  text-base text-white bg-[#000000] hover:bg-[#1a4093]
               flex items-center gap-2 
               rounded-full py-2 px-6 border-2 border-[#045ef0]  hover:text-[#fff] text-center font-bold
                uppercase"><img src="images/dex.png" alt="" className=" w-auto h-[28px]" />  Buy Now</a>
