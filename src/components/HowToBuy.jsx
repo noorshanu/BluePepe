@@ -16,7 +16,7 @@ function HowToBuy() {
               How To BUY
             </h1>
             <h2 className=" text-2xl sm:text-7xl font-bold font-dream py-2 text-center txts text-white" id="logo">
-              $BLPE
+              $BPEPE
             </h2>
           </div>
 
