@@ -74,7 +74,7 @@ function Taxs() {
       <div className=" flex justify-center flex-col items-center">
         <div>
           <p className=" text-center text-yellow-300 mt-4">
-            $PUPE UTILITY TOKEN - SOLANA CHAIN{" "}
+             $BPEPE UTILITY TOKEN - SOLANA CHAIN{" "}
           </p>
 
           <h1 className=" text-xl sm:text-5xl font-bold font-dream text-center text-white py-2 txts" id="logo">
