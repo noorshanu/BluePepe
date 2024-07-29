@@ -8,7 +8,7 @@ function Taxs() {
         data-aos-duration="1500"
         className=" container-wrapper rounded-2xl  box-s2  "
       >
-        <div className=" flex justify-between gap-4 items-center">
+        <div className=" flex flex-col sm:flex-row justify-between gap-4 items-center">
           <div className=" grid grid-cols-1 sm:grid-cols-2 items-center gap-4 justify-evenly w-full sm:w-1/2">
             <a
               href="#"
