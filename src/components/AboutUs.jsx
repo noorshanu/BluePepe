@@ -17,10 +17,7 @@ function AboutUs() {
             </h1>
 
             <p className=" text-lg text-white  py-2">
-              Purple Pepe is the real alpha Pepe on Solana. From humble
-              beginnings to millionaire status with a flashy Lambo, $PUPE
-              journey is legendary. Now, he's on a mission to uplift his entire
-              bro gang.
+            Blue Pepe is Solana's Alpha, from humble beginnings to millionaire with a Lambo. Join the journey and be part of the next big meme legend.
             </p>
 
             <p className=" text-lg text-white">
