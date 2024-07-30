@@ -17,7 +17,7 @@ function Footer() {
 
               <div className=" flex items-center gap-4 text-white mb-6 ml-5">
               <a
-                  href="https://x.com/PurplePepe_Sol"
+                  href="https://x.com/BluePepe_solana"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <BsTwitterX />
@@ -26,7 +26,7 @@ function Footer() {
            
 
                 <a
-                  href="https://t.me/PurplePepe_sol" target="_blank" rel="noreferrer"
+                  href="https://t.me/Bluepepe_solana" target="_blank" rel="noreferrer"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <FaTelegram />
