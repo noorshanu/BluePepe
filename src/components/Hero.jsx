@@ -31,7 +31,7 @@ function Hero() {
           <div className=" flex flex-row  justify-center items-center gap-4 w-full max-w-[200px] sm:max-w-[250px] mx-auto py-4">
             <div className=" h-8 w-[1px] bg-[#045ef0] hidden sm:block"></div>
             <a
-              href="t=1721393113503"
+              href="https://www.dextools.io/app/en/solana/pair-explorer/AW9iP3tiznZJv2u537ZqhBQ5yf6MYjGmBzJkix6ZAr9i?t=1722344018767"
               className=" mx-auto font-dream box-s2  text-lg text-white bg-[#000000] hover:bg-[#1a4093] rounded-full p-1 px-2 border-2 border-[#045ef0]  hover:text-[#fff] text-center font-bold uppercase"
             >
               {" "}
